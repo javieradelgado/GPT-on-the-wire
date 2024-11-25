@@ -1,0 +1,29 @@
+{"Packets":{
+    "Specific":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+    },
+    "Problems":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+  }
+},
+ "Conversations":{
+    "Specific":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+    },
+    "Problems":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+      }
+    }
+ }

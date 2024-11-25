@@ -1,0 +1,34 @@
+"Packets":{
+    "Training":{
+      "ICMPv1": "file-Wudp8viWA3IbeJ9N3EgNAysl",
+      "ICMPv2": "file-iA92ojT5SzS11YcC7e8NziJ2",
+      "DNS": "",
+      "ARP": "file-FG8EPrCa09npIK2TsFbyrCxf",
+      "ARPv2": "file-J22nrKS4x4DfCLRxTdJbNO2m",
+      "HTTP": ""
+    },
+    "Validation":{
+      "ICMPv1": "file-Bnnz95tHBJQl2v4crCd0IECA",
+      "ICMPv2": "file-dXYBxrl4DGoTQKYlhvTpIwmg",
+      "DNS": "",
+      "ARP": "file-VcMAsOlX641s2K661pE0I7RY",
+      "ARPv2": "file-M7hHyuyUJcmGX9v1gRAqjoQS",
+      "HTTP": ""
+      }
+    }
+ },
+ "Conversations":{
+    "Training":{
+      "ICMP": "file-BjoIEMlDr186QU8f0lSOzyUL",
+      "DNS": "file-tPgBi6JaOem9Zg8QAqKY2xYk",
+      "ARP": "file-bJuSn9He4ioA5Pj0lCTWfut8",
+      "HTTP": ""
+    },
+    "Validation":{
+      "ICMP": "file-r10A9585pGeOpP3JshSKPVdk",
+      "DNS": "file-XFEbJbrE5g5Bdqr7ELgChCuP",
+      "ARP": "file-K89nao3PUxMij79wLaURx7YK",
+      "HTTP": ""
+      }
+    }
+ }
