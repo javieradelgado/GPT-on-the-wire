@@ -1,0 +1,34 @@
+"Packets":{
+    "Training":{
+      "ICMPv1": "",
+      "ICMPv2": "",
+      "DNS": "",
+      "ARP": "",
+      "ARPv2": "",
+      "HTTP": ""
+    },
+    "Validation":{
+      "ICMPv1": "",
+      "ICMPv2": "",
+      "DNS": "",
+      "ARP": "",
+      "ARPv2": "",
+      "HTTP": ""
+      }
+    }
+ },
+ "Conversations":{
+    "Training":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+    },
+    "Validation":{
+      "ICMP": "",
+      "DNS": "",
+      "ARP": "",
+      "HTTP": ""
+      }
+    }
+ }
