@@ -1,0 +1,46 @@
+192.168.110.10        80.237.133.136        HTTP     365    GET / HTTP/1.1 
+80.237.133.136        192.168.110.10        HTTP     97     HTTP/1.1 200 OK  (text/html)
+192.168.110.10        212.144.254.123       HTTP     388    GET http://ip.webernetz.net/ HTTP/1.1 
+212.144.254.123       192.168.110.10        HTTP     166    HTTP/1.0 200 OK  (text/html)
+192.168.110.9         80.237.133.136        HTTP     139    HEAD / HTTP/1.0 
+80.237.133.136        192.168.110.9         HTTP     462    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     196    SUBSCRIBE /AVTransport/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     201    SUBSCRIBE /RenderingControl/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     202    SUBSCRIBE /ConnectionManager/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     177    UNSUBSCRIBE /RenderingControl/evt HTTP/1.1 
+192.168.7.1           192.168.7.12          HTTP     178    UNSUBSCRIBE /ConnectionManager/evt HTTP/1.1 
+192.168.7.1           192.168.7.12          HTTP     172    UNSUBSCRIBE /AVTransport/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     96     HTTP/1.1 200 OK 
+192.168.7.12          192.168.7.1           HTTP     96     HTTP/1.1 200 OK 
+192.168.7.12          192.168.7.1           HTTP     96     HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     208    SUBSCRIBE /RenderingControl/evt HTTP/1.1 
+192.168.7.1           192.168.7.12          HTTP     209    SUBSCRIBE /ConnectionManager/evt HTTP/1.1 
+192.168.7.1           192.168.7.12          HTTP     203    SUBSCRIBE /AVTransport/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     215    HTTP/1.1 200 OK  (text/html)
+192.168.7.1           192.168.7.12          HTTP     215    HTTP/1.1 200 OK  (text/html)
+192.168.7.1           192.168.7.12          HTTP     215    HTTP/1.1 200 OK  (text/html)
+192.168.7.1           192.168.7.12          HTTP     215    HTTP/1.1 200 OK  (text/html)
+192.168.7.12          192.168.7.26          HTTP     175    GET /ctrl-int/1/setproperty?dmcp.device-busy=0 HTTP/1.1 
+192.168.7.26          192.168.7.12          HTTP     142    HTTP/1.1 400 Bad Request 
+192.168.7.12          192.168.7.26          HTTP     186    GET /ctrl-int/1/setproperty?dmcp.device-volume=-17.875000 HTTP/1.1 
+192.168.7.26          192.168.7.12          HTTP     133    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     201    SUBSCRIBE /RenderingControl/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     202    SUBSCRIBE /ConnectionManager/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+192.168.7.1           192.168.7.12          HTTP     196    SUBSCRIBE /AVTransport/evt HTTP/1.1 
+192.168.7.12          192.168.7.1           HTTP     200    HTTP/1.1 200 OK 
+193.24.227.230        162.213.33.9          HTTP     99     GET /pks/lookup?op=get&options=mr&search=0xF7B29119B5D7F848 HTTP/1.0 
+162.213.33.9          193.24.227.230        HTTP     60     HTTP/1.1 200 OK  (text/plain)
+194.247.5.7           85.25.246.38          HTTP     545    GET http://netsec.blog/ HTTP/1.1 
+85.25.246.38          194.247.5.7           HTTP     216    HTTP/1.1 301 Moved Permanently  (text/html)
+194.247.5.7           85.25.246.38          HTTP     291    CONNECT weberblog.net:443 HTTP/1.1 
+85.25.246.38          194.247.5.7           HTTP     93     HTTP/1.1 200 Connection established 
+192.168.173.5         194.247.5.23          HTTP     484    GET / HTTP/1.1 
+194.247.5.23          192.168.173.5         HTTP     541    HTTP/1.1 301 Moved Permanently  (text/html)
