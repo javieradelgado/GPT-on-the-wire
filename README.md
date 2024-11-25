@@ -1,6 +1,6 @@
 # GPT on the wire
 
-In this repository you can find both codes and results of the research carried out by Javier Aday Delgado Soto, Jorge Enrique López de Vergara, Iván Gonzalez, Daniel Perdices and Luis de Pedro Sánchez in which we study the feasibility of applying generative AI models as LLMs in the generation of realistic network traffic.
+In this repository you can find codes, prompts and results of the research carried out by Javier Aday Delgado Soto, Jorge Enrique López de Vergara, Iván Gonzalez, Daniel Perdices and Luis de Pedro Sánchez in which we study the feasibility of applying generative AI models as LLMs in the generation of realistic network traffic.
 
 
 ----
