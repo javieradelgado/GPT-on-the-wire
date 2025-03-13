@@ -1,8 +1,0 @@
-Source: IP="10.0.0.200", port=9352, Window: 8192 // Destination: IP="10.0.0.201", port=80, Window: 1384 // Others: Host="http://www.adobe.com/", Path="", Code=200,  Reason_Phrase= "OK"
-Source: IP="52.84.125.96", port=5041, Window: 64321 // Destination: IP="13.33.23.213", port=80, Window: 32160 // Others: Host="http://www.audible.co.uk/", Path="", Code=404, Reason_Phrase= "Not Found"
-Source: IP="192.168.1.200", port=2359, Window: 512 // Destination: IP="192.168.1.201", port=80, Window: 256 // Others: Host="http://www.bing.com/", Path="", Code=200,  Reason_Phrase= "OK"
-Source: IP="13.224.194.4", port=5042, Window: 3210 // Destination: IP="99.86.58.21", port=80, Window: 3605 // Others: Host="http://www.amazon.co.uk/", Path="", Code=403, Reason_Phrase= "Forbidden"
-Source: IP="104.27.138.20", port=5018, Window: 1000 // Destination: IP="13.107.246.10", port=80, Window: 6500 // Others: Host="http://www.namecheap.com/", Path="", Code=307, Reason_Phrase= "Temporary Redirect"
-Source: IP="54.192.48.195", port=5043, Window: 8109 // Destination: IP="52.84.125.96", port=80, Window: 41054 // Others: Host="http://www.amazon.de/", Path="", Code=404, Reason_Phrase= "Not Found"
-Source: IP="34.102.136.180", port=5019, Window: 1000 // Destination: IP="104.215.148.63", port=80, Window: 5500 // Others: Host="http://www.shopify.com/", Path="", Code=307, Reason_Phrase= "Temporary Redirect"
-Source: IP="99.86.58.21", port=5044, Window: 9098 // Destination: IP="13.224.194.4", port=80, Window: 45549 // Others: Host="http://www.amazon.ca/", Path="", Code=403, Reason_Phrase= "Forbidden"
